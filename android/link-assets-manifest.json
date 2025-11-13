@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "Sport22QuestWorldTourSrc/Sport22QuestWorldTourAssets/Sport22QuestWorldTourFonts/Montserrat-Regular.ttf",
+      "sha1": "1c8119b38eef1914a4fbd9f6cfdedf198445ab97"
+    },
+    {
+      "path": "Sport22QuestWorldTourSrc/Sport22QuestWorldTourAssets/Sport22QuestWorldTourFonts/Roboto-Bold.ttf",
+      "sha1": "508c35dee818addce6cc6d1fb6e42f039da5a7cf"
+    },
+    {
+      "path": "Sport22QuestWorldTourSrc/Sport22QuestWorldTourAssets/Sport22QuestWorldTourFonts/Roboto-ExtraBold.ttf",
+      "sha1": "3dbfd71b6fbcfbd8e7ee8a8dd033dc5aaad63249"
+    },
+    {
+      "path": "Sport22QuestWorldTourSrc/Sport22QuestWorldTourAssets/Sport22QuestWorldTourFonts/Roboto-Italic.ttf",
+      "sha1": "55534e771bbbb6b649746802cabfdeb922b9eb3a"
+    },
+    {
+      "path": "Sport22QuestWorldTourSrc/Sport22QuestWorldTourAssets/Sport22QuestWorldTourFonts/Roboto-Regular.ttf",
+      "sha1": "3bff51436aa7eb995d84cfc592cc63e1316bb400"
+    },
+    {
+      "path": "Sport22QuestWorldTourSrc/Sport22QuestWorldTourAssets/Sport22QuestWorldTourFonts/RobotoCondensed-MediumItalic.ttf",
+      "sha1": "a4841c5d941a921e5a9947b8d5796b090287239f"
+    },
+    {
+      "path": "Sport22QuestWorldTourSrc/Sport22QuestWorldTourAssets/Sport22QuestWorldTourFonts/SFProText-Regular.ttf",
+      "sha1": "b4893462f2289df6978f9462a63db9e64bcc9342"
+    },
+    {
+      "path": "Sport22QuestWorldTourSrc/Sport22QuestWorldTourAssets/Sport22QuestWorldTourFonts/SFProText-Semibold.ttf",
+      "sha1": "9560ae412d73c7c9af72333db50464b4e597b0f9"
+    }
+  ]
+}
